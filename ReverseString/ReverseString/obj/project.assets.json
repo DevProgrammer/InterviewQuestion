@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\DV\\source\\repos\\ReverseString\\ReverseString\\ReverseString.csproj",
+      "projectUniqueName": "D:\\GitHub_Repository\\InterviewQuestion\\InterviewQuestion\\ReverseString\\ReverseString\\ReverseString.csproj",
       "projectName": "ReverseString",
-      "projectPath": "C:\\Users\\DV\\source\\repos\\ReverseString\\ReverseString\\ReverseString.csproj",
+      "projectPath": "D:\\GitHub_Repository\\InterviewQuestion\\InterviewQuestion\\ReverseString\\ReverseString\\ReverseString.csproj",
       "packagesPath": "C:\\Users\\DV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DV\\source\\repos\\ReverseString\\ReverseString\\obj\\",
+      "outputPath": "D:\\GitHub_Repository\\InterviewQuestion\\InterviewQuestion\\ReverseString\\ReverseString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

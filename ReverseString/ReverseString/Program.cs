@@ -40,7 +40,7 @@ namespace ReverseString
             {
                 Console.WriteLine("Hello World! This program shows you how to reverse the each word in sentance.");
                 Console.WriteLine("\nTo see how it works type a sentance to reverse its words.");
-                Console.Clear();
+                
                 Console.WriteLine(ReverseString(Console.ReadLine()));
                 Console.ReadKey();
             }
